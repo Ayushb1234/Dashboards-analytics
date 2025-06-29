@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/98c7f3af-ce9d-4025-83a4-b44514e5780c)![image](https://github.com/user-attachments/assets/111a3a01-9d62-4d1f-b055-1ad4aacca85c)![image](https://github.com/user-attachments/assets/b920b98a-d5b7-4994-8980-89ff0a81da0c)![image](https://github.com/user-attachments/assets/4b0ed22e-a697-44a1-845b-ff9b0654f150)# Dashboards-analytics
+# Dashboards-analytics
 
 # 📊 Power BI Dashboards Collection by Ayush
 
