@@ -60,35 +60,6 @@ This repository showcases **three cutting-edge dashboards** built with **Power B
 - 🧪 Python Integration (Isolation Forest)  
 - 🧭 Smart Visuals, Slicers & DAX Functions
 
----
-
-## 🚀 How to View the Dashboards
-
-All dashboards are included as high-quality images in the `/screenshots` folder for quick preview.  
-You can also upload the `.pbix` files in Power BI Desktop to interact with the full features.
-
----
-
-## 📣 How to Make It Seen by Everyone?
-
-1. **🧲 Catchy LinkedIn Post**  
-   - Use carousels of dashboard images
-   - Write a compelling caption:  
-     > *“Built 3 real-world dashboards simulating Netflix, Prime & Business Forecasting — data meets design!”*  
-   - Add relevant hashtags like `#PowerBI #DashboardDesign #DataAnalytics #DataScience`
-
-2. **🌍 Share on Platforms**  
-   - Upload on [Kaggle](https://kaggle.com), [DataCamp Workspace](https://workspace.datacamp.com), [Medium](https://medium.com/)  
-   - Write a story-based article: "How I simulated Netflix data in Power BI"
-
-3. **📸 Use Behance/Dribbble for Visual Appeal**  
-   - Showcase dashboard images as a design case study
-
-4. **📑 Turn It Into a Portfolio PDF**  
-   - Convert screenshots + highlights into a downloadable visual resume
-
-5. **📝 Mention It in Your Resume**  
-   - _“Designed and developed 3 full-stack dashboards using Power BI, Python, and DAX: Netflix simulation, Prime analysis, and a business forecasting suite.”_
 
 ---
 
