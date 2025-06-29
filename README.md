@@ -94,8 +94,8 @@ You can also upload the `.pbix` files in Power BI Desktop to interact with the f
 
 ## 🙌 Let's Connect!
 If you're a data enthusiast, recruiter, or business owner — I’d love to collaborate or explain the story behind every visual. Let's chat!  
-📧 ayush.datawizard@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 ka843004@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/ayush-choudhary-680381238/)
 
 ---
 
