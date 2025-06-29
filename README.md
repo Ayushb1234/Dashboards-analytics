@@ -1,4 +1,4 @@
-# Dashboards-analytics
+![image](https://github.com/user-attachments/assets/98c7f3af-ce9d-4025-83a4-b44514e5780c)![image](https://github.com/user-attachments/assets/111a3a01-9d62-4d1f-b055-1ad4aacca85c)![image](https://github.com/user-attachments/assets/b920b98a-d5b7-4994-8980-89ff0a81da0c)![image](https://github.com/user-attachments/assets/4b0ed22e-a697-44a1-845b-ff9b0654f150)# Dashboards-analytics
 
 # 📊 Power BI Dashboards Collection by Ayush
 
@@ -18,6 +18,9 @@ This repository showcases **three cutting-edge dashboards** built with **Power B
 - Interactive country-wise engagement map 🗺️  
 💡 *Insight-driven storytelling for entertainment data.*
 
+![image](https://github.com/user-attachments/assets/2d201226-5c02-472c-b9a5-98663f2159d7)
+
+
 ---
 
 ### 2️⃣ **Amazon Prime Analytics Dashboard** 📦  
@@ -28,6 +31,9 @@ This repository showcases **three cutting-edge dashboards** built with **Power B
 - Country-wise content classification 🌍  
 - Smart filters and drill-through interactions 🔍  
 🎯 *Built for data-backed decision-making in streaming.*
+
+![image](https://github.com/user-attachments/assets/c66fe9d8-057f-4b18-9a93-9fc5f727e210)
+
 
 ---
 
@@ -40,6 +46,9 @@ This repository showcases **three cutting-edge dashboards** built with **Power B
 - KPI Tracking with Year-over-Year (YoY) growth ⏱️  
 - Advanced Power BI visuals: heatmaps, maps, smart Q&A integration 🤖  
 📈 *A complete toolkit for CXOs and Data Analysts.*
+
+![image](https://github.com/user-attachments/assets/507ad8b0-16a2-4edd-86da-b3c02db2f44f)
+
 
 ---
 
