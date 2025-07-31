@@ -1,5 +1,3 @@
-# Dashboards-analytics
-
 # 📊 Power BI Dashboards Collection by Ayush
 
 Welcome to my Data Analytics Dashboard Vault! 🚀  
